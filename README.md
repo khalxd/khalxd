@@ -1,12 +1,10 @@
 # Khaled Ahmed
 
-Senior Digital Operations Analyst at CVS Health, currently building my way into Identity & Access Management.
+Senior Digital Operations Analyst at CVS Health, working toward Identity & Access Management.
 
-Right now I investigate authentication and access issues affecting Aetna Health applications, tracing problems back through identity data, account status, and eligibility systems to find the actual root cause, not just patch the symptom. Before this role, I ran full-cycle IAM operations: onboarding and offboarding, Active Directory and Entra ID administration, SSPR, security group management, BeyondTrust PAM, and Zscaler troubleshooting, all built around least-privilege and Zero Trust rather than treated as a checkbox.
+I investigate authentication and access issues for Aetna Health applications, tracing problems through identity data and eligibility systems to find the actual root cause. Before this, I ran full-cycle IAM operations: onboarding, AD and Entra ID administration, SSPR, and PAM.
 
-These projects are how I'm building toward an IAM Administrator or IAM Engineer role: real infrastructure I built and tested myself, not tutorials I followed along with.
-
-**Currently studying for:** SC-300 (Microsoft Identity and Access Administrator Associate)
+These projects are how I'm building toward an IAM Administrator role, one real build at a time.
 
 ## Projects
 
@@ -22,6 +20,3 @@ These projects are how I'm building toward an IAM Administrator or IAM Engineer 
 
 CompTIA Security+ · Microsoft SC-900 · Microsoft AZ-900 · ITIL v5 Foundation
 
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/khaledahm/)
