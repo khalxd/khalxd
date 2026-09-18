@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm K 👋
+# Hi, I'm Khaled 👋
 
-**IT Support Specialist working toward Identity & Access Management**
+**Senior Digital Operations Analyst working toward Identity & Access Management**
 
 Hands-on production experience with Microsoft Entra ID, Active Directory, and BeyondTrust PAM. This portfolio documents my transition into IAM through applied labs — identity lifecycle automation, access governance, and hybrid identity — built across Entra ID, Active Directory, and Microsoft Sentinel.
 
@@ -29,12 +29,10 @@ Hands-on production experience with Microsoft Entra ID, Active Directory, and Be
 
 **In progress:** SC-300 (Microsoft Identity and Access Administrator Associate)
 
-**Planned:** Okta Certified Administrator · CCNA
-
 ---
 
 ## 🔗 Connect
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/khaledahm/) 
 
 </div>
