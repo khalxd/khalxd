@@ -14,11 +14,11 @@ Hands-on production experience with Microsoft Entra ID, Active Directory, and Be
 
 | Project | Purpose | Stack | Status |
 |---|---|---|---|
-| [Active Directory Homelab](https://github.com/khalxd/active-directory-homelab) | Enterprise AD environment in Microsoft Azure — Windows Server DC, OU structure, security groups, DNS, and a GPO troubleshooting writeup as proof-of-work | Active Directory, Windows Server, Azure, GPO | Complete |
-| [Active Directory PowerShell Automation](https://github.com/khalxd/active-directory-powershell-automation) | PowerShell toolkit for AD user provisioning, group management, reporting, and account lifecycle administration, including bulk CSV imports and inactive account audits | PowerShell, Active Directory | Complete |
-| [Enterprise Group Policy Security Baseline](https://github.com/khalxd/enterprise-group-policy-security-baseline) | Enterprise GPOs for password policy, account lockout, USB restriction, and audit logging | Active Directory, Windows Server, GPO | Complete |
-| [JML Lifecycle Automation](https://github.com/khalxd/jml-lifecycle-automation-lab) | CSV-based HR feed as source of truth, idempotent joiner/mover/leaver scripts with department-based group assignment, PIM role revocation on leaver, logged to Microsoft Sentinel | Entra ID, PowerShell, PIM, Sentinel | Complete |
-| Conditional Access / Zero Trust Lab | Layered Zero Trust policy framework with break-glass exclusions, risk-based access, and a policy-interaction decision table | Entra ID, Conditional Access, Identity Protection | Planned |
+| [JML Lifecycle Automation](https://github.com/khalxd/jml-lifecycle-automation-lab) | One script that handles the whole employee lifecycle: new hires, department moves, and offboarding, pulling from an HR file and logging every action | Entra ID, PowerShell, PIM, Sentinel | Complete |
+| [Active Directory Homelab](https://github.com/khalxd/active-directory-homelab) | A full AD environment built in Azure, including a domain controller, organized structure, security groups, DNS, and a real troubleshooting writeup | Active Directory, Windows Server, Azure, GPO | Complete |
+| [Active Directory PowerShell Automation](https://github.com/khalxd/active-directory-powershell-automation) | Scripts that handle the everyday admin work: creating users, managing groups, running reports, and cleaning up inactive accounts | PowerShell, Active Directory | Complete |
+| [Enterprise Group Policy Security Baseline](https://github.com/khalxd/enterprise-group-policy-security-baseline) | Group policies that lock down password rules, account lockout, USB access, and logging across the domain | Active Directory, Windows Server, GPO | Complete |
+| Conditional Access / Zero Trust Lab | A layered set of access policies with safety exclusions, risk-based rules, and a plan for how they all interact | Entra ID, Conditional Access, Identity Protection | Planned |
 
 ---
 
