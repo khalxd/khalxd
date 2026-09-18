@@ -25,7 +25,7 @@ Hands-on production experience with Microsoft Entra ID, Active Directory, and Be
 
 ## 📜 Certifications
 
-**Earned:** CompTIA Security+ · Microsoft SC-900 · Microsoft AZ-900 · Google Cybersecurity Certificate
+**Earned:** CompTIA Security+ · Microsoft SC-900 · Microsoft AZ-900 · ITIL v5 Foundation
 
 **In progress:** SC-300 (Microsoft Identity and Access Administrator Associate)
 
