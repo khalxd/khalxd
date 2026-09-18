@@ -1,6 +1,6 @@
 # Khaled Ahmed
 
-Senior Digital Operations Analyst at CVS Health, working toward Identity & Access Management.
+Senior Digital Operations Analyst working toward Identity & Access Management.
 
 I investigate authentication and access issues for Aetna Health applications, tracing problems through identity data and eligibility systems to find the actual root cause. Before this, I ran full-cycle IAM operations: onboarding, AD and Entra ID administration, SSPR, and PAM.
 
